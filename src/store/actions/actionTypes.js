@@ -1,0 +1,2 @@
+export const GET_ALL_USER_DATA = 'GET_ALL_USER_DATA'
+export const GET_MODAL_DATA = 'GET_MODAL_DATA'
